@@ -2,7 +2,7 @@
 <div class="container">
     <div class="row">
         <div class="col-md-6">
-            <h3>Daftar Barang</h3>
+            <h3>Daftar Barang Rousyati</h3>
             <ul class="list-group">
                     <table class="table">
                     <thead>
